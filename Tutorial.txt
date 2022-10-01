@@ -7,6 +7,6 @@ $ pkg install bash
 $ pkg install git
 $ pkg install nano
 $ termux-setup-storage
-$ git clone https://github.com/Bisnisokteto/dikaTools
-$ cd dikaTools
+$ git clone https://github.com/Bisnisokteto/semuaakun
+$ cd semuaakun
 $ sh allakun.sh
