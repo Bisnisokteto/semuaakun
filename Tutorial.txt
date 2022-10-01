@@ -1,0 +1,12 @@
+///by dikaTools
+
+$ pkg update && pkg upgrade
+$ pkg install python
+$ pkg install bash
+$ pkg install bash
+$ pkg install git
+$ pkg install nano
+$ termux-setup-storage
+$ git clone https://github.com/Bisnisokteto/dikaTools
+$ cd dikaTools
+$ sh allakun.sh
